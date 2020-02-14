@@ -1,8 +1,9 @@
 [![npm version](https://badge.fury.io/js/clio-lang.svg)](https://badge.fury.io/js/clio-lang)
-[![Gitter](https://badges.gitter.im/clio-lang/community.svg)](https://gitter.im/clio-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/joinchat/K2tN9kkVldcinF4U08lcfQ)
 ![Travis (.org)](https://img.shields.io/travis/clio-lang/clio.svg)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fclio-lang%2Fclio.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fclio-lang%2Fclio?ref=badge_shield)
 [![Coverage Status](https://coveralls.io/repos/github/clio-lang/clio/badge.svg?branch=develop)](https://coveralls.io/github/clio-lang/clio?branch=develop)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ea4361c03b94375a58cb020328d8fd8)](https://www.codacy.com/gh/clio-lang/clio?utm_source=github.com&utm_medium=referral&utm_content=clio-lang/clio&utm_campaign=Badge_Grade)
 [![Inline docs](http://inch-ci.org/github/clio-lang/clio.svg?branch=develop)](http://inch-ci.org/github/clio-lang/clio)
 [![Kanban Board](https://img.shields.io/badge/Kanban%20Board-v0.2.0-1abc9c.svg)](https://github.com/orgs/clio-lang/projects/1)
 
@@ -48,7 +49,7 @@ test programs exist, it is not recommended to use in production.
 - [Documentation](http://docs.clio-lang.org)
 - [Clio on Rosetta Code](http://rosettacode.org/wiki/Clio)
 - [Web IDE](https://clio-lang.github.io/clio-editor/)
-- [Clio Chat (on Gitter)](https://gitter.im/clio-lang/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+- [Clio Telegram Chat](https://t.me/joinchat/K2tN9kkVldcinF4U08lcfQ)
 - [Kanban Board](https://github.com/orgs/clio-lang/projects/1)
 
 ## Examples
@@ -97,5 +98,7 @@ Thank you to all the people who already contributed to Clio!
 </a>
 
 ## License
+
+Apache-2.0
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fclio-lang%2Fclio.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fclio-lang%2Fclio?ref=badge_large)
